@@ -2,13 +2,13 @@
 
 ## Values
 
-#### It's okay to be wrong 
+#### It's okay to be wrong
 
 -   Normalize "I don't know yet"
 
--   Try your best to figure it out, but don't be afraid to ask for help
+-   Make an effort to first figure it out, but don't be afraid to ask for help
 
--   Take responsibility for your actions - be open and honest about mistakes
+-   Take responsibility for your actions - be open and honest about mistakes (and accidents - they happen to us all)
 
 #### Open and respectful communication/environment
 
@@ -18,31 +18,31 @@
 
 -   All ideas are valid and welcomed
 
-#### Value individuality
-
--   Encourage people to be themselves
-
-#### Fostering inclusivity
-
--   Proactive in including new members
-
--   Remind everyone of these core values
-
--   Make resources and information accessible
-
 #### Collaborate and share
 
 -   Avoid reinventing the wheel...
 
 -   Be willing to share resources, be willing to help others
 
--   Within lab but also with other labs
+-   Within the lab but also with other labs
+
+#### Value individuality
+
+-   Encourage people to be themselves
+
+#### Fostering inclusivity
+
+-   Be proactive in including new members
+
+-   Remind everyone of these core values
+
+-   Make resources and information accessible
 
 #### Facilitate a diverse and welcoming environment
 
 -   Welcome diverse viewpoints
 
--   Be proactive in creating opportunities to interact amongst labs
+-   Be proactive in creating opportunities to interact among labs
 
 #### We love science and we love life outside of science
 
@@ -54,4 +54,4 @@
 
 -   Prioritize physical and mental health for yourself and others
 
--   Flexibility to work when we want to work (within reason)
+-   Flexibility to work when we want to work (within reason or unless we are doing field work)
